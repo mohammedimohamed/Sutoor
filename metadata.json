@@ -1,0 +1,7 @@
+{
+  "name": "مولد أوراق عمل الخط العربي للأطفال",
+  "description": "مولد أوراق عمل تفاعلية وقابلة للطباعة لتعليم الخط العربي للأطفال بحجم A4 مع سطور تعليمية دقيقة ومجسمات كرتونية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
